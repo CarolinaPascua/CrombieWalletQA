@@ -12,6 +12,7 @@ Windows 10 Home
 
 Aparte del plan de pruebas también se realizará una serie de pruebas exploratorias con la intención de cubrir la mayor parte del proyecto como sea posible, teniendo en cuenta que cuanto mayor es la extensión de un proyecto, más difícil es cubrir el 100% de las posibilidades de valores de entrada en cada escenario.
 
-# Casos de prueba con sus respectivos resultados.
+### Casos de prueba con sus respectivos resultados.
 Los defectos encontrados a lo largo de la ejecución de este plan de pruebas y de las pruebas exploratorias pueden verse en la sección Issues del repositorio.
+
 [Test plan](https://docs.google.com/spreadsheets/d/1VIVNfrzXtxhWzyKC57z6o0tdURyTwaQWdc4ca0nF3RY/edit?usp=sharing)
