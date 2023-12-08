@@ -1,4 +1,4 @@
-[Test Cases](https://docs.google.com/spreadsheets/d/1VIVNfrzXtxhWzyKC57z6o0tdURyTwaQWdc4ca0nF3RY/edit?usp=sharing)
+Descargable: [Test Cases](https://docs.google.com/spreadsheets/d/1VIVNfrzXtxhWzyKC57z6o0tdURyTwaQWdc4ca0nF3RY/edit?usp=sharing)
 
 El propósito de este documento es el de describir la manera en que será testeado el proyecto CrombieWallet. El objetivo de estos casos de prueba es evaluar la funcionalidad del sitio web, y por consiguiente identificar y listar cualquier defecto que pueda ser descubierto durante el proceso de pruebas.
 
